@@ -42,14 +42,8 @@ A benchmark approach that uses Monte Carlo simulations of uncertain predictors a
 
 The methodology was developed for wildfire occurrence prediction in two fire management regions of northwestern Ontario, Canada:
 
-- Dryden Fire Management Area
-Located in northwestern Ontario
-Characterized by boreal forest ecosystems
-Historically affected by wildfire activity
-- Fort Frances Fire Management Area
-Adjacent to the Dryden region
-Contains diverse forest and climatic conditions
-Important operational area for wildfire management
+- Dryden Fire Management Area: Located in northwestern Ontario; Characterized by boreal forest ecosystems; Historically affected by wildfire activity
+- Fort Frances Fire Management Area: Adjacent to the Dryden region; Contains diverse forest and climatic conditions; Important operational area for wildfire management
 
 
 
